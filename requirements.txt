@@ -1,0 +1,11 @@
+ask-sdk-core==1.19.0
+ask-sdk-runtime==1.19.0
+ask-sdk-model==1.82.0
+certifi
+charset-normalizer
+idna
+python-dateutil
+requests
+six
+urllib3
+
